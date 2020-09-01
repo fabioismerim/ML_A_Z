@@ -1,6 +1,6 @@
 ### Evaluating Model Performance
 
-We use R^2 ( R squared) to evaluating the best regression models.
+We use R^2 ( R squared) to evaluate the best regression models.
 
 ![R SQUARED](https://media.geeksforgeeks.org/wp-content/uploads/20190415232400/best-fitted-model.png)
 
