@@ -6,3 +6,4 @@
 <li>Support Vector Regression (SVR)</li>
 <li>Decision Tree Regression</li>
 <li>Random Forest Regression</li>
+<li>Evaluating the Model Performance</li>
